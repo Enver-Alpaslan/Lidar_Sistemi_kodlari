@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LDAR_KODLARI",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LDAR_KODLARI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LDAR_KODLARI-Debug-49128e692d5fad0b2162.json",
+					"name" : "LDAR_KODLARI",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/\u0130NSANSIZKARAARACIPROJES\u0130/L\u0130DAR_SENS\u00d6R\u00dc/L\u0130DAR_KODLARI/cmake-build-debug",
+		"source" : "C:/\u0130NSANSIZKARAARACIPROJES\u0130/L\u0130DAR_SENS\u00d6R\u00dc/L\u0130DAR_KODLARI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

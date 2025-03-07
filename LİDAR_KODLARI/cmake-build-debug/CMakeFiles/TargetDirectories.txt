@@ -1,0 +1,3 @@
+C:/İNSANSIZKARAARACIPROJESİ/LİDAR_SENSÖRÜ/LİDAR_KODLARI/cmake-build-debug/CMakeFiles/LDAR_KODLARI.dir
+C:/İNSANSIZKARAARACIPROJESİ/LİDAR_SENSÖRÜ/LİDAR_KODLARI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/İNSANSIZKARAARACIPROJESİ/LİDAR_SENSÖRÜ/LİDAR_KODLARI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
